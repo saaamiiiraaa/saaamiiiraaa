@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samira Sindha</h1>
-<h3 align="center">A passionate student who goes to the University of Houston majoring in Computer Science student</h3>
+<h3 align="center">Just a passionate student who goes to the University of Houston majoring in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaamiiiraaa&label=Profile%20views&color=0e75b6&style=flat" alt="saaamiiiraaa" /> </p>
 
